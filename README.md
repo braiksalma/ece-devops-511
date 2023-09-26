@@ -1,4 +1,5 @@
-# ece-devops-511
+# ece-devops
+CONTRIBUTORS
 
-Salma Braïk <salma.braik@edu.ece.fr>
-Ines Khoutami <ines.khoutami@edu.ece.fr>
+BRAÏK Salma <salma.braik@edu.ece.fr>
+KHOUTAMI Ines <ines.khoutami@edu.ece.fr>
