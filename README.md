@@ -1,4 +1,4 @@
-# LAB 1 : DevOps Introduction
+# DevOps Introduction
 
 
 ![GitHub lab1 DevOps](https://img.shields.io/badge/Lab1-DevOps-yellow?logo=github)
