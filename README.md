@@ -6,7 +6,7 @@
 
 
 Objectives :
-   The goal of the lab is to learn the proper way of creating an IT project following best practices. 
+   The goal is to learn the proper way of creating an IT project following best practices. 
 
 As an example of programming language, we will use JavaScript with its server-side runtime - [Node.js](https://nodejs.org/en/). It is one of the most popular languages for developing various types of applications, and it's very easy to get started with.
 
