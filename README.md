@@ -28,9 +28,9 @@ Before you begin, ensure you have met the following requirements:
 
 
 ## Using
-```
-Follow these steps:
 
+Follow these steps:
+```
 Go to cd ~/path/to/your-root-project-directory
 Run the NPM script with the command: npm run start
 Tap the following URL in google to access the web app https://localhost:3000/
