@@ -39,7 +39,7 @@ Tap the following URL in google to access the web app https://localhost:3000/
 ## Contributors
 
 Thanks to the following people who have contributed to this project:
-
+* [@sihamdek](https://github.com/sihamdek) 💻
 * [@inesz7](https://github.com/inesz7) 💻
 * [@braiksalma](https://github.com/braiksalma) 💻
 
