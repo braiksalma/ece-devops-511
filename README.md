@@ -3,6 +3,14 @@
 
 ![GitHub lab1 DevOps](https://img.shields.io/badge/Lab1-DevOps-yellow?logo=github)
 
+## Table of contents
+
+* [1.Create a web application](#1.Createawebapplication])
+* [2.Apply CI/CD pipeline](#2.ApplyCI/CDpipeline)
+  * [3. Configure and provision a virtual environment and run your application using the IaC approach](#3.Configureandprovision a virtual environment and run your application using the IaC approach)
+  * [Web application](#Web-application)
+* [Contributors](#Contributors)
+* [Contact](#Contact)
 
 
 Objectives :
