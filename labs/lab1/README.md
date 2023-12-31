@@ -1,20 +1,12 @@
-# DevOps Introduction
+# LAB 1 : DevOps Introduction
 
 
 ![GitHub lab1 DevOps](https://img.shields.io/badge/Lab1-DevOps-yellow?logo=github)
 
-## Table of contents
-
-* [1.Create a web application](#1.Createawebapplication])
-* [2.Apply CI/CD pipeline](#2.ApplyCI/CDpipeline)
-  * [3. Configure and provision a virtual environment and run your application using the IaC approach](#3.Configureandprovision a virtual environment and run your application using the IaC approach)
-  * [Web application](#Web-application)
-* [Contributors](#Contributors)
-* [Contact](#Contact)
 
 
 Objectives :
-   The goal is to learn the proper way of creating an IT project following best practices. 
+   The goal of the lab is to learn the proper way of creating an IT project following best practices. 
 
 As an example of programming language, we will use JavaScript with its server-side runtime - [Node.js](https://nodejs.org/en/). It is one of the most popular languages for developing various types of applications, and it's very easy to get started with.
 
@@ -38,16 +30,16 @@ Before you begin, ensure you have met the following requirements:
 ## Using
 
 Follow these steps:
-```
-Go to cd ~/path/to/your-root-project-directory
-Run the NPM script with the command: npm run start
-Tap the following URL in google to access the web app https://localhost:3000/
+
+<Go to cd ~/path/to/your-root-project-directory>
+<Run the NPM script with the command: npm run start>
+<Tap the following URL in google to access the web app https://localhost:3000/>
 ```
 
 ## Contributors
 
 Thanks to the following people who have contributed to this project:
-* [@sihamdek](https://github.com/sihamdek) 💻
+
 * [@inesz7](https://github.com/inesz7) 💻
 * [@braiksalma](https://github.com/braiksalma) 💻
 
